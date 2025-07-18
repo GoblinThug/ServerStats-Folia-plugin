@@ -1,0 +1,9 @@
+name: ServerStats
+main: me.goblin.serverStats.ServerStats
+version: 1.0
+api-version: 1.21
+folia-supported: true
+commands:
+  serverstats:
+    description: Показывает статистику сервера
+    usage: /serverstats
